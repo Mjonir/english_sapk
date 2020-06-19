@@ -1,7 +1,10 @@
 var translations = [
     [/雀魂牌譜屋·金/gi, 'Mahjong Soul Stats·Gold'],
+    [/雀魂牌谱屋·金/gi, 'Mahjong Soul Stats·Gold'],
     [/雀魂牌譜屋·三麻/gi, 'Mahjong Soul Stats·3-Player'],
+    [/雀魂牌谱屋·三麻/gi, 'Mahjong Soul Stats·3-Player'],
     [/雀魂牌譜屋/gi, 'Mahjong Soul Stats'],
+    [/雀魂牌谱屋/gi, 'Mahjong Soul Stats'],
     [/四人玉\/王座/gi, '4-Player Jade/Throne'],
     [/四人金/gi, '4-Player Gold'],
     [/三人/gi, '3-Player'],
