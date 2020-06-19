@@ -1,0 +1,20 @@
+{
+    "name": "English sapk",
+    "version": "1.0",
+    "description": "Translate sapk MajSoul stats to English",
+    "icons": {
+      "32": "icon.png"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*.sapk.ch/*"
+            ],
+            "js": [
+                "content.js"
+            ],
+            "run_at": "document_idle"
+        }
+    ],
+    "manifest_version": 2
+}
