@@ -208,6 +208,10 @@ var translations = [
     [/開始/gi, 'Start'],
     [/終了/gi, 'End'],
     [/対戦/gi, 'Matches'],
+
+    [/相手/gi, 'Opponent'],
+    [/胜率/gi, 'Win rate'],
+    [/平均得点/gi, 'Average points'],
 ];
 
 function translate_page()
