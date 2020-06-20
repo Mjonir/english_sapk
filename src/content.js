@@ -210,7 +210,7 @@ var translations = [
     [/対戦/gi, 'Matches'],
 
     [/相手/gi, 'Opponent'],
-    [/胜率/gi, 'Win rate'],
+    [/勝率/gi, 'Win rate'],
     [/平均得点/gi, 'Average points'],
 ];
 
