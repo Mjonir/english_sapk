@@ -76,7 +76,7 @@ var translations = [
     [/点数期待/gi, 'Expected score'],
 
     [/立直和了/gi, 'Riichi win rate'],
-    [/立直収支/gi, 'Riichi payment'],
+    [/立直収支/gi, 'Riichi balance'],
     [/先制率/gi, 'First riichi'],
     [/追っかけ率/gi, 'Chasing riichi'],
     [/追っかけられ率/gi, 'Chased rate'],
